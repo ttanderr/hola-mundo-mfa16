@@ -1,2 +1,2 @@
-"La informática tiene que ver con los ordenadores lo mismo que la astronomía con los telescopios"
+La informática tiene que ver con los ordenadores lo mismo que la astronomía con los telescopios
 MFA16 -- Edsger W. Dijkstra
